@@ -7,8 +7,8 @@
 **a-side** · <samp>out now</samp><br>
 <samp>01</samp> <a href="https://github.com/marykovziridze/clockwork"><b>clockwork</b></a> · a kit that stops parallel claude code sessions overwriting each other
 
-**b-side** · <samp>pressing</samp><br>
-<samp>02</samp> <b>clockoffice</b> · a clock in the mac menu bar for the agent that is waiting on you
+**b-side** · <samp>out now</samp><br>
+<samp>02</samp> <a href="https://github.com/marykovziridze/clockoffice"><b>clockoffice</b></a> · a mac menu bar app that shows which claude code session is waiting for you
 
 <samp>more when it's done.</samp>
 
